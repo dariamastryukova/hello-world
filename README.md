@@ -1,3 +1,4 @@
 # hello-world
 My first repository.
-gk
+Now i'm going to go for a walk. 
+
